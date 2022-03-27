@@ -40,7 +40,7 @@ Install Zooooop with npm
 
 Contributions are always welcome!
 
-See `contributing.md` for ways to get started.
+See `contribute.md` for ways to get started.
 
 Please adhere to this project's `code of conduct`.
 
